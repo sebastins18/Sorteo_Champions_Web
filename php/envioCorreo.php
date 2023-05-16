@@ -20,7 +20,7 @@ try{
     $mail->Host='smtp.gmail.com';
     $mail->Port=465;
     $mail->Username='sebastins08@gmail.com';
-    $mail->Password='Sebaslong18@@';
+    $mail->Password='';
 
 
     $mail->SetFrom('sebastins08@gmail.com','Sebastian');
